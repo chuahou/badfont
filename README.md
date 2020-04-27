@@ -18,6 +18,15 @@ alphabet. Please don't kill me.
 Download the font from the Releases page and... well, install it the way it
 works for your system. If on Linux, usually `cp badfont.ttf ~/.fonts` works.
 
+## Workflow
+
+This font was made by writing on a piece of paper that was then scanned, before
+tracing in GIMP using a tablet. The resultant traces (seen in `traces/*.png`
+were imported into FontForge and autotraced using potrace.
+
+**NOTE**: I swear my handwriting isn't usually this bad, it's the flawed
+workflow that makes it look this bad. Really...
+
 ## Disclaimer
 
 Has errors. Does not have many characters. Is inconsistent. Don't use it.
