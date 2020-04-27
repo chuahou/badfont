@@ -2,6 +2,8 @@
 
 A project by me using my scanned handwriting to make terrible UI choices.
 
+![preview](preview.png)
+
 ## Why?
 
 Why not?
