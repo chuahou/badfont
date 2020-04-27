@@ -3,9 +3,9 @@ FontName: badfont
 FullName: badfont
 FamilyName: badfont
 Weight: Regular
-Copyright: Copyright (c) 2020, h.chua,,,
+Copyright: Copyright (c) 2020, Chua Hou
 UComments: "2020-4-27: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 75
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1587955320
-ModificationTime: 1587979281
+ModificationTime: 1587980602
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,8 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 2057 "Copyright (c) 2020, Chua Hou" "badfont" "Regular" "" "badfont" "Version 1.0.0"
+LangName: 1033
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -50,9 +52,10 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 0 18 14
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 419430 209715 139810 234477 1048576 139810 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 264 109
 
 StartChar: A
