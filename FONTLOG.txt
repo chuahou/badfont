@@ -1,0 +1,36 @@
+FONTLOG for the GlobalFontFamily fonts
+
+This file provides detailed information on badfont. This information should be
+distributed along with badfont and any derivative works.
+
+Basic Font Information
+
+badfont is a Latin typeface family that supports a limited range of mostly
+ASCII characters and some special characters, intended for use in programming
+and terminals.
+
+Feel free to contribute through issues and pull requests at
+https://github.com/chuahou/badfont.
+
+ChangeLog
+
+2 May 2020 (Chua Hou) badfont v1.1.0
+- Major changes to em size and descender depth
+- Add cdot character
+
+27 April 2020 (Chua Hou) badfont v1.0.1
+- Adjust heights of +-<> to be consistent
+
+27 April 2020 (Chua Hou) badfont v1.0.0
+- Initial version with mostly ASCII characters
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Chua Hou
+E: human+github@chuahou.dev
+W: https://github.com/chuahou/badfont
+D: Main contributor
+
