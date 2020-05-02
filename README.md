@@ -18,6 +18,9 @@ alphabet. Please don't kill me.
 Download the font from the Releases page and... well, install it the way it
 works for your system. If on Linux, usually `cp badfont.ttf ~/.fonts` works.
 
+Line spacing is currently wonky, for example on gnome-terminal set cell height
+to 1.45x to avoid issues.
+
 ## Workflow
 
 This font was made by writing on a piece of paper that was then scanned, before
