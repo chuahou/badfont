@@ -1,0 +1,19 @@
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+The quick brown fox jumps over the lazy dog.
+
+This is a hilariously bad font. You probably don't want to anyway, but use at
+your own risk.
+
+It is monospaced, so go ahead and write some code:
+
+int main(int argc, char* argv[])
+{
+	printf("Why am I doing this?\n");
+	return 0;
+}
+
+fib :: Int -> Int
+fib 0 = 0
+fib 1 = 1
+fib n = fib (n - 1) + fib (n - 2)
+
