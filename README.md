@@ -27,6 +27,17 @@ This font was made by writing on a piece of paper that was then scanned, before
 tracing in GIMP using a tablet. The resultant traces (seen in `traces/*.png`
 were imported into FontForge and autotraced using potrace.
 
+GIMP brush settings:
+
+- Brush: 2. Hardness 050
+- Size: 9.00
+- Aspect ratio: 0.00
+- Angle: 0.00
+- Spacing: 10.0
+- Hardness: 50.0
+- Force: 50.0
+- Dynamics: Off
+
 **NOTE**: I swear my handwriting isn't usually this bad, it's the flawed
 workflow that makes it look this bad. Really...
 
